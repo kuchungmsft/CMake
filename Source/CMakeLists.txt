@@ -758,6 +758,7 @@ target_link_libraries(
     LibArchive::LibArchive
     LibRHash::LibRHash
     LibUV::LibUV
+    nlohmann_json::nlohmann_json
     Threads::Threads
     ZLIB::ZLIB
   )
